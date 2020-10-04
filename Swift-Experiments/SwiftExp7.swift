@@ -1,8 +1,8 @@
 //
-//  Program.swift
-//  
+//  SwiftExp7.swift
 //
-//  Created by Naveen Chauhan on 03/10/20.
+//
+//  Created by @freeclassrooms on 03/10/20.
 //
 //MARK: - Swap Numbers Using Temporary Variable
 
