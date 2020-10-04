@@ -66,7 +66,22 @@ Merge develop changes to your branch
     git merge develop
     
     Note: Do not write anything inside Swift-Experiments Directory
-    Create your seperate directory where you would write practice programs
+    Create your seperate directory in your branch like "MySwiftPrograms" where you would write practice programs or your own program
+    
+    And after finishing your work please follow these commands
+      i) git add --all 
+      Note- You are in your branch
+      ii) git commit -m "Your work done"
+      iii) git push origin <Your Git Branch>
+      
+For any buggy program follow these commands
+    
+Create Seperate Directory ProgrammingIssues and put buggy file here then follow these commands
+      
+     i) git add --all 
+     Note- You are in your branch
+     ii) git commit -m "Your work done"
+     iii) git push origin <Your Git Branch>
 
 #Program List
 ## SwiftExp1.swift - “Hello, World!” Program
