@@ -84,13 +84,14 @@ Create Seperate Directory ProgrammingIssues and put buggy file here then follow 
      iii) git push origin <Your Git Branch>
 
 ## Program List
-#SwiftExp1.swift - “Hello, World!” Program
-#SwiftExp2.swift - Program to Print an Integer (Entered by the User)
-#SwiftExp3.swift - Program to Add Two Integers
-#SwiftExp4.swift - Program to Find ASCII Value of a Character
-#SwiftExp5.swift - Program to Compute Quotient and Remainder
-#SwiftExp6.swift - Program to Find the Size of int, float, double and char
-#SwiftExp7.swift - Swap Numbers Using Temporary Variable
+    #SwiftExp1.swift - “Hello, World!” Program
+    #SwiftExp2.swift - Program to Print an Integer (Entered by the User)
+    #SwiftExp3.swift - Program to Add Two Integers
+    #SwiftExp4.swift - Program to Find ASCII Value of a Character
+    #SwiftExp5.swift - Program to Compute Quotient and Remainder
+    #SwiftExp6.swift - Program to Find the Size of int, float, double and char
+    #SwiftExp7.swift - Swap Numbers Using Temporary Variable
+    #SwiftExp8.swift - Program to Check Whether a Character is a Vowel or Consonant
 
 
 
