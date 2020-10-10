@@ -8,4 +8,4 @@
 import Foundation 
 let a = 1.23
 let c = 2.90
-print (a+c)
+print (a*c)
